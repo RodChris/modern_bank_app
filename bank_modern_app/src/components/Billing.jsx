@@ -13,7 +13,7 @@ const Billing = () => (
         Easily control your <br className="sm:block hidden" />
         billing & invoicing.
       </h2>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+      <p className={`${styles.paragraph} max-w-[570px] mt-5`}>
         Experience hassle-free billing with our bank's user-friendly online platform.
         Easily manage and track your transactions, set up automatic payments, and receive real-time alerts, making handling your finances effortless and efficient.
       </p>
